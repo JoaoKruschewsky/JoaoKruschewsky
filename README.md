@@ -48,5 +48,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-joaokruschewskydev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaokruschewskydev/)](https://www.linkedin.com/in/joaokruschewskydev/)
-[![Gmail Badge](https://img.shields.io/badge/-joaopedrokruschewsky123@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrokruschewsky123@gmail.com)](mailto:joaopedrokruschewsky123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaopedrokruschewsky123@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedrokruschewsky123@gmail.com)](gmailto:joaopedrokruschewsky123@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/JoaoKruschewsky)
