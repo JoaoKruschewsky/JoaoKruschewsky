@@ -5,7 +5,6 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Sistema de Informacao  na Unex.
 - 💼 Buscando minha primeira oprtunidade de trabalho!
-- 🌱 Aprendendo mais sobre JUNIT, MOCKITO E SPRINGBOOT porque o spring a gente nunca para kkk.
 
 ## Minhas Skills
 
